@@ -17,9 +17,9 @@ const Header = props => {
                     </span>
                 </h1>
                 <div className="buttons">
-                    <a href="#projects">my portfolio</a>
+                    <a href="#projects">Mi Portafolio</a>
                     <a href="#contact" className="cta">
-                        get in touch
+                        Contactame
                     </a>
                 </div>
             </div>
