@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 const Project = props => {
     const tech = {
         sass: 'fab fa-sass',
