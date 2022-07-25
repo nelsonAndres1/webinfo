@@ -79,5 +79,6 @@ class App extends React.Component {
   }
 }
 export default App;
-
+//npm run build
+//npm run deploy
 //ReactDOM.render(<App />, document.getElementById('app'));
