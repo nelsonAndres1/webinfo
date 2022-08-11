@@ -113,6 +113,7 @@ a:active {
 }
 
 .menu-container::before {
+  /* aquii */
   background: url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/Stars.svg?sanitize=true);
 }
 
@@ -410,6 +411,7 @@ a:active {
 #welcome-section::before {
   content: '';
   position: fixed;
+  /* aqui */
   background: url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/Stars.svg?sanitize=true);
   background-attachment: fixed;
   width: 100%;

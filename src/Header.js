@@ -13,7 +13,7 @@ const Header = props => {
                     <span className="line">Ingeniero Informático</span>
                     <span className="line">
                         <span className="color">&</span>
-                        Licenciado
+                        Licenciado En Ciencias!
                     </span>
                 </h1>
                 <div className="buttons">
