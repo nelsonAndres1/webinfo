@@ -69,11 +69,23 @@ const Projects = props => {
                         tech="Python"
                         link="https://github.com/nelsonAndres1/"
                         repo="https://github.com/nelsonAndres1/">
-                        <small>Trabajo de Grado Meritorio</small>
+                        <small>Trabajo de Grado Meritorio AUNAR</small>
                         <p>
                             Se destacó por el Trabajo de Grado Meritorio denominado: Estudio exploratorio de técnicas de Machine Learning para la
                             extracción y clasificación de características en registros ECG offline
                             dirigido a la detección automática de arritmias cardiacas.
+                        </p>
+                    </Project>
+                    <Project title="Reconocimiento 3"
+                        img={image4}
+                        tech="Python"
+                        link="https://conectatecontuscircuitos.milaulas.com/"
+                        repo="https://github.com/nelsonAndres1/">
+                        <small>Trabajo de Grado Meritorio UDENAR</small>
+                        <p>
+                            Se destacó por el Trabajo de Grado Meritorio denominado: Objeto Virtual de Aprendizaje OVA 
+                            para la enseñanza de circuitos eléctricos básicos para los estudiantes de grado
+                            Quinto de primaria en la Institución Educativa Municipal Ciudad de Pasto sede Miraflores.
                         </p>
                     </Project>
                 </div>
