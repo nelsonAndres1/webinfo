@@ -15,9 +15,16 @@ const Contact = props => {
             <p className="subtitle">
               Send an email to {''}
               <span className="mail">
-                andrew32118@gmail.com
+                <u>
+                  andrew32118@gmail.com
+                </u>
               </span>
-              :
+              {' '}or{' '}
+              <span className="mail">
+                <u>
+                  nelson_agreda@outlook.com
+                </u>
+              </span>
             </p>
           </div>
           <SocialLinks />
